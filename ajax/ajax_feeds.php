@@ -78,7 +78,7 @@ if( !empty( $_POST ) ) {
                     if (!$res) {
                         $response['success'] = false;
                         $response['message'] = '<p style="color: red">FTP connection faild, please check your details.</p>';
-                        echo json_encode( $response ); die();
+                        echo json_encode( $response ); die(0);
                     }
 
                     if (!isset($ftp_dir_path) || $ftp_dir_path == '') {
