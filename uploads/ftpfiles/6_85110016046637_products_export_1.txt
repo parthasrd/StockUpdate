@@ -1,0 +1,289 @@
+a:45:{i:0;a:1:{s:7:"product";a:10:{s:5:"title";s:28:"Water chalk Innisfree Skinny";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:38:"copy-of-water-chalk-innisfree-skinny-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"50.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:114:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/30_092a5f28-09e9-4539-8765-263229236e55.jpg?v=1588834488";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:1;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:38:"copy-of-water-chalk-innisfree-skinny-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:113:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/3_70da5dd3-fe85-4df7-bfdf-db86922dd0cf.jpg?v=1588834488";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:2;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:38:"copy-of-water-chalk-innisfree-skinny-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:114:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/28_61723a9b-80e9-4e36-b0d5-739cd0c9cebe.jpg?v=1588834488";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:3;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:38:"copy-of-water-chalk-innisfree-skinny-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:115:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/sp1_7b0dc519-3eef-41fd-b0cd-4167c7b6308c.jpg?v=1590034886";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:4;a:1:{s:7:"product";a:10:{s:5:"title";s:6:"Lotion";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:15:"copy-of-mascara";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"22.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/42.jpg?v=1588753581";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:5;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:15:"copy-of-mascara";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"42.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/37.jpg?v=1588753581";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:6;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:15:"copy-of-mascara";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:114:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/30_9aca4bb9-7333-41c9-9437-786877f714c6.jpg?v=1588753581";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:7;a:1:{s:7:"product";a:10:{s:5:"title";s:7:"mascara";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:15:"copy-of-make-up";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"22.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/10.jpg?v=1588753304";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:8;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:15:"copy-of-make-up";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:79:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/10-1.jpg?v=1588753509";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:9;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:15:"copy-of-make-up";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:79:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/10-2.jpg?v=1588753509";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:10;a:1:{s:7:"product";a:10:{s:5:"title";s:7:"Make up";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:38:"copy-of-sweet-almond-exfoliating-creme";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"18.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:76:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/6.jpg?v=1588753106";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:11;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:38:"copy-of-sweet-almond-exfoliating-creme";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:76:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/7.jpg?v=1588753106";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:12;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:38:"copy-of-sweet-almond-exfoliating-creme";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:113:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/1_a7f4e5e0-49ff-404a-9f4a-3f7eb9d666fd.jpg?v=1588753106";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:13;a:1:{s:7:"product";a:10:{s:5:"title";s:31:"Sweet Almond Exfoliating Crème";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:30:"sweet-almond-exfoliating-creme";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"20.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/26.jpg?v=1588752474";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:14;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:30:"sweet-almond-exfoliating-creme";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"20.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/27.jpg?v=1589344515";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:15;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:30:"sweet-almond-exfoliating-creme";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"38.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:82:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/sp22222.jpg?v=1589344515";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:16;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:30:"sweet-almond-exfoliating-creme";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"38.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:0:"";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:17;a:1:{s:7:"product";a:10:{s:5:"title";s:14:"Cream Cleanser";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:16:"cream-cleanser-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"18.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/13.jpg?v=1588752404";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:18;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:16:"cream-cleanser-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/14.jpg?v=1588752404";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:19;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:16:"cream-cleanser-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/23.jpg?v=1588752404";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:20;a:1:{s:7:"product";a:10:{s:5:"title";s:14:"Cream Cleanser";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:14:"cream-cleanser";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"18.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/40.jpg?v=1588752351";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:21;a:1:{s:7:"product";a:10:{s:5:"title";s:7:"Perfume";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:7:"perfume";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"50.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/38.jpg?v=1588752248";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:22;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:7:"perfume";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/44.jpg?v=1588752248";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:23;a:1:{s:7:"product";a:10:{s:5:"title";s:22:"Desodorante para mujer";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:22:"desodorante-para-mujer";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"28.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/36.jpg?v=1588752195";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:24;a:1:{s:7:"product";a:10:{s:5:"title";s:32:"Essence Moisturizing Facial Skin";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:26:"copy-of-moisturizing-serum";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"28.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:114:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/33_4a302e7b-a7e2-4c3c-8c2d-ef9e9d70ded0.jpg?v=1588752047";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:25;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:26:"copy-of-moisturizing-serum";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/31.jpg?v=1588752047";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:26;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:26:"copy-of-moisturizing-serum";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/35.jpg?v=1588752045";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:27;a:1:{s:7:"product";a:10:{s:5:"title";s:18:"Moisturizing Serum";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:23:"copy-of-whitening-cream";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"28.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/34.jpg?v=1588751954";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:28;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:23:"copy-of-whitening-cream";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/33.jpg?v=1588751954";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:29;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:23:"copy-of-whitening-cream";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/32.jpg?v=1588751954";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:30;a:1:{s:7:"product";a:10:{s:5:"title";s:36:"Bamboo Lemongrass Foaming Body Scrub";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:16:"copy-of-lotion-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"39.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:78:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/sp1.jpg?v=1588834414";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:31;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:16:"copy-of-lotion-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:78:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/sp2.jpg?v=1588834414";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:32;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:16:"copy-of-lotion-1";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:78:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/sp3.jpg?v=1588834414";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:33;a:1:{s:7:"product";a:10:{s:5:"title";s:6:"Lotion";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:16:"copy-of-lipstick";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"39.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/47.jpg?v=1588751788";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:34;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:16:"copy-of-lipstick";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/30.jpg?v=1588751788";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:35;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:16:"copy-of-lipstick";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/28.jpg?v=1588751788";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:36;a:1:{s:7:"product";a:10:{s:5:"title";s:8:"Lipstick";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:14:"copy-of-lotion";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"39.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/39.jpg?v=1588751675";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:37;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:14:"copy-of-lotion";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"39.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/41.jpg?v=1588751676";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:38;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:14:"copy-of-lotion";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"39.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:77:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/43.jpg?v=1588751676";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:39;a:1:{s:7:"product";a:10:{s:5:"title";s:6:"Lotion";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:36:"copy-of-water-chalk-innisfree-skinny";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"50.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:76:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/3.jpg?v=1588751602";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:40;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:36:"copy-of-water-chalk-innisfree-skinny";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:76:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/4.jpg?v=1588751602";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:41;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:36:"copy-of-water-chalk-innisfree-skinny";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:76:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/5.jpg?v=1588751602";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:42;a:1:{s:7:"product";a:10:{s:5:"title";s:28:"Water chalk Innisfree Skinny";s:9:"body_html";s:1089:"<div class=" py-4">
+<div class="row">
+<div class="col-md-6"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-1.jpg?v=1588747705" alt=""></div>
+<div class="col-md-6 info2">
+<div>
+<h3>Calf-length dress in airy, textured cotton fabric with a printed pattern</h3>
+<p>Sed hendrerit. Cras risus ipsum, faucibus ut, ullamcorper id, varius estibulum ante ipsum primis in faucibus</p>
+</div>
+<a><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-4.jpg?v=1588747706" alt=""></a>
+</div>
+</div>
+</div>
+<div class=" py-4 des-info">
+<div class="text-center">
+<h3>Product Details</h3>
+<p>Inspired by traditional blockprinting techniques in India, our own in-house design is the vibrant pattern that every closet needs. That's why we crafted our party standout tiered maxi dress in this royal blue-and-yellow print: It's lightweight, lined and will look great at all your most festive summer events.</p>
+</div>
+</div>
+<a class="d-block py-3"><img src="https://cdn.shopify.com/s/files/1/0284/9069/4753/files/descriptoon-3.jpg?v=1588747706" alt=""> </a>";s:6:"vendor";s:5:"Venia";s:12:"product_type";s:0:"";s:6:"handle";s:28:"water-chalk-innisfree-skinny";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:5:{s:5:"price";s:5:"50.00";s:7:"taxable";b:1;s:17:"required_shipping";b:1;s:5:"grams";s:3:"0.0";s:11:"weight_unit";s:1:"g";}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:76:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/1.jpg?v=1588751406";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:43;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:28:"water-chalk-innisfree-skinny";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:76:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/2.jpg?v=1588751406";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}i:44;a:1:{s:7:"product";a:10:{s:5:"title";s:0:"";s:9:"body_html";s:0:"";s:6:"vendor";s:0:"";s:12:"product_type";s:0:"";s:6:"handle";s:28:"water-chalk-innisfree-skinny";s:9:"published";b:1;s:8:"variants";a:1:{i:0;a:2:{s:7:"taxable";b:1;s:17:"required_shipping";b:1;}}s:6:"images";a:1:{i:0;a:1:{s:3:"src";s:78:"https://cdn.shopify.com/s/files/1/0284/9069/4753/products/2-1.jpg?v=1588751406";}}s:4:"tags";s:14:"NEWLY-IMPORTED";s:9:"metafield";a:0:{}}}}

@@ -1,0 +1,16 @@
+.header{
+	padding:20px 0;
+}
+.bodycls{
+	min-height: 550px; 
+	width: 100%;
+}
+.copyright{
+	margin: 0 auto;
+	text-align: center;
+}
+.notask-msg{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
