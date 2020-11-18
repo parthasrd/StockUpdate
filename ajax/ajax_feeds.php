@@ -66,7 +66,6 @@ if( !empty( $_POST ) ) {
                     if (!isset($ftp_pwd) || $ftp_pwd == '') {
                         $response['success'] = false;
                         $response['message'] = '<p style="color: red">Please provide FTP password details</p>';
-                        
                         echo json_encode( $response ); die(0);
                     }
                     if (!isset($ftp_host) || $ftp_host == '') {
